@@ -12,4 +12,4 @@ Korean Covid Fake News(Date, Retweet, Like).csv는 각 트윗이 작성된 날�
 단, 데이터수집시점(2023년 3월) 기준으로 리트윗 수, 좋아요 수를 수집했기 때문에 현재와는 상이할 가능성이 높습니다.
 
 
-같은 No에 Text 정보와 Context 정보가 대응됩니다.
+같은 No에 Text 데이터와 Context 데이터가 대응됩니다.
