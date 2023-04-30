@@ -1,4 +1,4 @@
-# COVID-19_Korean_Fake_News_in_Tweeter
+# COVID-19_Korean_Fake_News_in_Twitter
 ### ver 1.0.0
 
 
