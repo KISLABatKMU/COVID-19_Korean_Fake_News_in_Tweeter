@@ -1,7 +1,7 @@
 # COVID-19_Korean_Fake_News_in_Tweeter
-# ver 1.0.0
+### ver 1.0.0
 
-본 데이터셋은 지능정보연구(Journal of Intelligence and Information Systems)에 투고한
+본 데이터셋은 지능정보연구(Journal of Intelligence and Information Systems)에 투고 예정인
 '품사별 출현 빈도를 활용한 SNS상 코로나19 한국어 가짜뉴스 탐지 모델 제안' 에서 사용한 데이터셋입니다.
 
 현재 데이터셋의 크기가 많이 작은 편(약 300건)이고, 지속적으로 업데이트 진행 예정입니다.
